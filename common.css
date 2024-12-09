@@ -16,7 +16,7 @@ body {
     justify-content: space-between; /* 在列之间分配空间 */
     align-items: center; /* 垂直居中 */
     background-color: #f0f0f0; /* 背景色 */
-    background-image: url("/图片/图3.jpeg");
+    background-image: url("/图3.jpeg");
     background-size: cover; /* 背景图片覆盖整个容器 */
     background-position: center; /* 背景图片居中 */
 }
